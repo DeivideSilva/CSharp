@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMercado", "MiniMercado\MiniMercado.csproj", "{DF1C618A-09F9-4C07-8D0A-4D69356E9AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{AF875C1B-BD4D-4DA1-A835-32AA0AD22C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{BFF55595-AD94-4E92-889D-2D98E9EB4B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF1C618A-09F9-4C07-8D0A-4D69356E9AA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF1C618A-09F9-4C07-8D0A-4D69356E9AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF1C618A-09F9-4C07-8D0A-4D69356E9AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF1C618A-09F9-4C07-8D0A-4D69356E9AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF875C1B-BD4D-4DA1-A835-32AA0AD22C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF875C1B-BD4D-4DA1-A835-32AA0AD22C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF875C1B-BD4D-4DA1-A835-32AA0AD22C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF875C1B-BD4D-4DA1-A835-32AA0AD22C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF55595-AD94-4E92-889D-2D98E9EB4B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF55595-AD94-4E92-889D-2D98E9EB4B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF55595-AD94-4E92-889D-2D98E9EB4B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF55595-AD94-4E92-889D-2D98E9EB4B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

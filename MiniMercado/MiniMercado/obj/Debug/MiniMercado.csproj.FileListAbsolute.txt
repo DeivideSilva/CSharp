@@ -1,0 +1,36 @@
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\MiniMercado.exe.config
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\MiniMercado.exe
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\MiniMercado.pdb
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.Properties.Resources.resources
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.exe
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.pdb
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmLogin.resources
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmCadastroProdutos.resources
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmMenu.resources
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmFornecedor.resources
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmVendas.resources
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmCadastroUsuarios.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\MiniMercado.exe.config
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.exe
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\MiniMercado.exe
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\MiniMercado.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmLogin.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmCadastroProdutos.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmCadastroUsuarios.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmFornecedor.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmMenu.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.FrmVendas.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.Properties.Resources.resources
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\MiniMercado\obj\Debug\MiniMercado.csproj.GenerateResource.Cache

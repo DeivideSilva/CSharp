@@ -1,0 +1,16 @@
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\bin\Debug\Controle.dll.config
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\obj\Debug\Controle.dll
+C:\Users\Julia\Desktop\MiniMercado\MiniMercado\Controle\obj\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\bin\Debug\Controle.dll.config
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\obj\Debug\Controle.dll
+C:\Users\Julia\Desktop\Projetos C#\MiniMercado\MiniMercado\Controle\obj\Debug\Controle.pdb
