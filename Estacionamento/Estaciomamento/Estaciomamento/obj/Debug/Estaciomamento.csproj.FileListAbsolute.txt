@@ -1,0 +1,30 @@
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Estaciomamento.exe.config
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Estaciomamento.exe
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Estaciomamento.pdb
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Form1.resources
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Properties.Resources.resources
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.exe
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.pdb
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Controle_de_Entrada.resources
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Controle_Saida.resources
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Estaciomamento.exe.config
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.exe
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Estaciomamento.exe
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Estaciomamento.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Controle_de_Entrada.resources
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Controle_Saida.resources
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Form1.resources
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.Properties.Resources.resources
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Estaciomamento\obj\Debug\Estaciomamento.csproj.GenerateResource.Cache

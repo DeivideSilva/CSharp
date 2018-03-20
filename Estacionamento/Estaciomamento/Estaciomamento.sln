@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estaciomamento", "Estaciomamento\Estaciomamento.csproj", "{2E1BE88A-74E0-435E-9DA6-FB13F50B4DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{C743AA29-C899-4ADF-9EE6-1A071A3F48D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{4DAAE109-C775-40BE-84B5-8EAA805D0F76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1BE88A-74E0-435E-9DA6-FB13F50B4DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1BE88A-74E0-435E-9DA6-FB13F50B4DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1BE88A-74E0-435E-9DA6-FB13F50B4DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1BE88A-74E0-435E-9DA6-FB13F50B4DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C743AA29-C899-4ADF-9EE6-1A071A3F48D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C743AA29-C899-4ADF-9EE6-1A071A3F48D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C743AA29-C899-4ADF-9EE6-1A071A3F48D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C743AA29-C899-4ADF-9EE6-1A071A3F48D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DAAE109-C775-40BE-84B5-8EAA805D0F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAAE109-C775-40BE-84B5-8EAA805D0F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAAE109-C775-40BE-84B5-8EAA805D0F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAAE109-C775-40BE-84B5-8EAA805D0F76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Modelo\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Modelo\obj\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Estacionamento\Estaciomamento\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Modelo\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Modelo\obj\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Projetos C#\Estacionamento\Estaciomamento\Modelo\obj\Debug\Modelo.pdb
