@@ -1,0 +1,16 @@
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Telas.exe.config
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Telas.exe
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Telas.pdb
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.Properties.Resources.resources
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.csproj.GenerateResource.Cache
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.exe
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.pdb
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.CadastroClientes.resources
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.CadastroPizzas.resources
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.Principal.resources
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\obj\Debug\Telas.Pedidos.resources
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Telas\bin\Debug\Modelo.pdb

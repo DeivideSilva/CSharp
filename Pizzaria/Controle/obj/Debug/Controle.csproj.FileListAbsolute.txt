@@ -1,0 +1,8 @@
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\bin\Debug\Controle.dll.config
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\bin\Debug\Controle.dll
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\bin\Debug\Controle.pdb
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\bin\Debug\Modelo.dll
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\bin\Debug\Modelo.pdb
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\obj\Debug\Controle.dll
+C:\Users\Julia\Desktop\Pizzaria\Pizzaria\Controle\obj\Debug\Controle.pdb

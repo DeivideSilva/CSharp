@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{BF9BC747-6280-48C9-9C3A-2865F8D5287D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{8772DCA0-BB7F-43F7-B44B-448BC263A58A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telas", "Telas\Telas.csproj", "{4B57CE0D-08F4-44A7-845E-5A5C28F24F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF9BC747-6280-48C9-9C3A-2865F8D5287D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF9BC747-6280-48C9-9C3A-2865F8D5287D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF9BC747-6280-48C9-9C3A-2865F8D5287D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF9BC747-6280-48C9-9C3A-2865F8D5287D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8772DCA0-BB7F-43F7-B44B-448BC263A58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8772DCA0-BB7F-43F7-B44B-448BC263A58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8772DCA0-BB7F-43F7-B44B-448BC263A58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8772DCA0-BB7F-43F7-B44B-448BC263A58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B57CE0D-08F4-44A7-845E-5A5C28F24F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B57CE0D-08F4-44A7-845E-5A5C28F24F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B57CE0D-08F4-44A7-845E-5A5C28F24F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B57CE0D-08F4-44A7-845E-5A5C28F24F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
